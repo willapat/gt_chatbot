@@ -28,6 +28,7 @@ wheels/
 # IDE
 .vscode/
 .idea/
+*.iml
 *.swp
 *.swo
 *~
